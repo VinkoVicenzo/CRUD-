@@ -1,0 +1,38 @@
+/*CSS da parte dos professores.php*/
+.form-body{
+    background-color: #c850c0;
+    width: 100%;
+    height: 25vh;
+    position: absolute;
+}
+
+.form-nome{
+    padding-top: 6vh;
+    padding-left: 15vw;
+    float: left;
+
+}
+
+.btn{
+    height: 5vh;
+    margin-left: 0.6vw;
+    width:8vw;
+    border-radius: 8px;
+}
+
+/*CSS da parte das turmas.php*/
+
+.container-fluid{
+    position: absolute;
+    background-color: #c850c0;
+    padding-top: 2vh;
+    padding-left: 13vw;
+    width: 87vw;
+    height: 0.1vh;
+}
+
+.form-select{
+    height: 4.8vh;
+}
+
+ 
